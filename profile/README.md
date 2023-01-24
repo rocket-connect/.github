@@ -1,5 +1,3 @@
-# Hey 👋
-
 <p align="center">
 <a href="https://www.rocketconnect.co.uk">rocketconnect.co.uk</a>
 </p>
